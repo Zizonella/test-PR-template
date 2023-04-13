@@ -1,5 +1,5 @@
-### Summary
-provide evidence
+### PR title
+[OVPWAVE-XXXX] Message describing the pull request
 
 ### Details
 
